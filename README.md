@@ -1,3 +1,3 @@
 # Space MRventure
-Mixed Reality application about Space with an integrated custom AI LLM chatbot.  
+Mixed Reality application about Space. 
 MRTK | for Hololens 2
